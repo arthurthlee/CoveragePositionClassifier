@@ -1,0 +1,891 @@
+covered,criteria
+t,"Some valid criteria for a child for an old update
+over multiple lines~`!@#$%^&*()_-+={[}]|:;""'<,>.?/"
+t,"Some valid criteria for a child for a new update
+over multiple lines~`!@#$%^&*()_-+={[}]|:;""'<,>.?/"
+f,Criteria for a stand-alone URL
+t,Criteria for a stand-alone URL with many company presence for drug 3
+t,Criteria for a stand-alone URL with many company presence for drug 4
+t,Criteria for a stand-alone URL with many company presence for drug 3
+t,Criteria for a stand-alone URL with many company presence for drug 4
+t,"Some valid criteria for a parent for an old update
+over multiple lines~`!@#$%^&*()_-+={[}]|:;""'<,>.?/"
+t,Criteria for a stand-alone URL with many company presence for drug 5
+t,Criteria for a stand-alone URL with many company presence for drug 5
+t,"Zelboraf
+
+Covered Uses 
+ALL FDA APPROVED INDICATIONS NOT OTHERWISE EXCLUDED FROM PART D. 
+
+Exclusion Criteria 
+
+Required Medical Information 
+
+Age Restrictions
+
+Prescriber Restrictions 
+
+Coverage Duration 
+12 MONTHS
+
+Other Criteria"
+t,"Cotellic
+
+Covered Uses 
+ALL FDA APPROVED INDICATIONS NOT OTHERWISE EXCLUDED FROM PART D. 
+
+Exclusion Criteria 
+
+Required Medical Information 
+
+Age Restrictions 
+
+Prescriber Restrictions 
+
+Coverage Duration 
+12 MONTHS
+
+Other Criteria"
+t,"Tafinlar
+
+Covered Uses 
+ALL FDA APPROVED INDICATIONS NOT OTHERWISE EXCLUDED FROM PART D. 
+
+Exclusion Criteria 
+
+Required Medical Information 
+
+Age Restrictions 
+
+Prescriber Restrictions 
+
+Coverage Duration 
+12 MONTHS
+
+Other Criteria"
+t,"Zelboraf
+
+Covered Uses 
+ALL FDA APPROVED INDICATIONS NOT OTHERWISE EXCLUDED FROM PART D. 
+
+Exclusion Criteria 
+
+Required Medical Information 
+
+Age Restrictions 
+
+Prescriber Restrictions 
+
+Coverage Duration 
+12 MONTHS
+
+Other Criteria"
+t,"Covered Uses
+ALL FDA APPROVED INDICATIONS NOT OTHERWISE EXCLUDED FROM PART D.
+
+Exclusion Criteria
+ 
+Required Medical Information
+ 
+Age Restrictions
+ 
+Prescriber Restrictions
+ 
+Coverage Duration
+12 MONTHS
+
+Other Criteria"
+t,"Coverage is provided for the treatment of the FDA approved indications.
+
+(Note: Coverage also may be provided if the member is enrolled in a Phase II-IV investigative study and documentation of enrollment and study approval by an appropriate investigational review board (IRB) is submitted to the plan.)"
+t,"Covered Uses
+ALL FDA APPROVED INDICATIONS NOT OTHERWISE EXCLUDED FROM PART D.
+
+Exclusion Criteria
+ 
+Required Medical Information
+ 
+Age Restrictions
+ 
+Prescriber Restrictions
+ 
+Coverage Duration
+12 MONTHS
+
+Other Criteria"
+t,"Zelboraf
+
+Covered Uses 
+ALL FDA APPROVED INDICATIONS NOT OTHERWISE EXCLUDED FROM PART D. 
+
+Exclusion Criteria
+
+Required Medical Information 
+
+Age Restrictions
+
+Prescriber Restrictions 
+
+Coverage Duration 
+12 MONTHS
+
+Other Criteria"
+t,"Drug Names 
+MEKTOVI
+
+Covered Uses 
+All FDA-approved indications not otherwise excluded from Part D.
+
+Exclusion Criteria
+
+Required Medical Information
+
+Age Restrictions
+
+Prescriber Restrictions
+
+Coverage Duration 
+Plan Year
+
+Other Criteria"
+t,"Mekinist
+Criteria for coverage as follows:
+• FDA approved indications, off label use will be covered when there is an NCCN supported indication with a recommendation of class 2A or greater. 
+• Patient must have BRAF V600E/K mutation.
+• Must be written by an oncologist."
+t,"Coverage is provided for the treatment of the FDA approved indications.
+
+(Note: Coverage also may be provided if the member is enrolled in a Phase II-IV investigative study and documentation of enrollment and study approval by an appropriate investigational review board (IRB) is submitted to the plan.)"
+t,"Cotellic
+Criteria for coverage as follows:
+• FDA approved indications, off label use will be covered when there is an NCCN supported indication with a recommendation of class 2A or greater. 
+• Must be prescribed by Oncologist.
+• Must be used in combination with Zelboraf."
+t,"Tafinlar
+
+Criteria for coverage as follows:
+• FDA approved indications, off label use will be covered when there is an NCCN supported indication with a recommendation of class 2A or greater. 
+• Patient must have BRAF V600E/K mutation.
+• Must be written by an oncologist."
+t,"Zelboraf
+
+Criteria for coverage as follows:
+• FDA approved indications, off label use will be covered when there is an NCCN supported indication with a recommendation of class 2A or greater. 
+• Patient must have BRAF V600E/K mutation.
+• Must be written by an oncologist."
+t,"Drug Names 
+COTELLIC
+
+Covered Uses 
+All FDA-approved indications not otherwise excluded from Part D.
+
+Exclusion Criteria
+
+Required Medical Information
+
+Age Restrictions
+
+Prescriber Restrictions
+
+Coverage Duration 
+Plan Year
+
+Other Criteria"
+t,"Tafinlar
+
+Criteria for coverage as follows:
+• FDA approved indications, off label use will be covered when there is an NCCN supported indication with a recommendation of class 2A or greater. 
+• Patient must have BRAF V600E/K mutation.
+• Must be written by an oncologist."
+t,"Zelboraf
+
+Criteria for coverage as follows:
+• FDA approved indications, off label use will be covered when there is an NCCN supported indication with a recommendation of class 2A or greater. 
+• Patient must have BRAF V600E/K mutation.
+• Must be written by an oncologist."
+t,"Cotellic
+
+Covered Uses 
+All FDA-approved indications not otherwise excluded from Part D.
+
+Exclusion Criteria 
+N/A
+
+Required Medical Information 
+Melanoma initial - must have BRAF V600 mutation.
+
+Age Restrictions 
+N/A
+
+Prescriber Restrictions 
+N/A
+
+Coverage Duration 
+3 years
+
+Other Criteria 
+Melanoma - being prescribed in combination with Zelboraf"
+t,N/A
+t,"Covered uses All medically accepted indications not otherwise excluded from Part D.
+ Exclusion criteria None
+ Required med info None
+ Age restrictions None
+ Prescriber restrictions None
+ Coverage duration One Year
+ Other criteria None"
+t,"Aetna considers nivolumab (Opdivo) medically necessary for the following indications:
+
+Bladder cancer
+
+Used as a single agent for clinical stage T4b or T2-4a, N1-3 disease, or for recurrence post cystectomy, or for metastatic disease as subsequent systemic therapy.
+
+Classical Hodgkin lymphoma
+
+in adults age 18 and older as additional therapy as a single agent for refractory disease if Deauville 4-5 or for relapsed disease in persons previously treated with brentuximab vedotin or for disease that has relapsed or progressed following high-dose therapy and autologous stem cell rescue (HDT/ASCR) and post-transplant brentuximab vedotin; or
+Palliative therapy as a single agent for relapsed or refractory disease in older adults (age >60) if previously treated with bretuximab vedotin; or
+in adults age 18 and older as additional therapy as a single agent for relapsed or refractory disease in persons previously treated with brentuximab vedotin or disease that has relapsed or progressed following HDT/ASCR (high-dose therapy and autologous stem cell rescue) and post-transplant brentuximab vedotin.
+ 
+Colorectal cancer, small bowel adenocarcinoma, appendiceal carcinoma, and anal adenocarcinoma (defective mismatch repair/high microsatellite instability [dMMR/MSI-H] only) - single agent therapy for
+
+Primary treatment for unresectable metachronous metastases and previous adjuvant FOLFOX or CapeOX within the past 12 months; or
+Initial therapy for unresectable advanced or metastatic disease who are not appropriate for intensive therapy; or
+Subsequent therapy (if nivolumab or pembrolizumab not previously given) for unresectable advanced or metastatic disease following previous oxaliplatin- irinotecan- and/or fluoropyrimidine-based therapy.
+ 
+Head and neck cancer - Therapy for very advanced and recurrent/persistent squamous cell head and neck cancer as a single agent for nonnasopharyngeal cancer if disease progression on or after platinum-containing chemotherapy for 
+
+newly diagnosed T4b, any N, M0 disease, unresectable nodal disease with no metastases, or for persons who are unfit for surgery and performance status (PS) 3
+metastatic (M1) disease at initial presentation or recurrent/persistent disease with distant metastases, or unresctable locoregional recurrence or second primary with prior radiation therapy (RT) and PS 0-2
+unresectable locoregional recurrence without prior RT and PS 3.
+ 
+Hepatocellular carcinoma - for adults who received previous treatment with sorafenib.
+
+Kidney cancer - Used as a single agent for relapse or stage IV disease
+
+as preferred subsequent therapy for predominant clear cell histology; or
+as systemic therapy for non-clear cell histology.
+
+Malignant pleural mesothelioma - subsequent systemic therapy as a single agent or in combination with ipilimumab.
+
+Melanoma - Therapy for metastatic or unresectable disease as a single agent or in combination with ipilimumab for: 
+
+first-line therapy; or
+second line or subsequent therapy for persons with performance status 0-2 if anti-PD1 monotherapy not previously used (however, for persons who progress on single-agent checkpoint immunotherapy, nivolumab/ipilimumab combination therapy is considered medically necessary); or
+After maximum clinical benefit from BRAF targeted therapy for persons with performance status 0-2; or 
+Re-induction therapy for persons with performance status 0-2 who experience disease control and have no residual toxicity, but subsequently experience disease progression/relapse >3 months after treatment discontinuation; or 
+
+Melanoma - adjuvant treatment with lymph node involvement or metastatic disease in persons who have undergone complete resection for up to 1 year of treatment.
+
+Merkel Cell Carcinoma.
+
+Metastatic squamous cell anal carcinoma.
+
+Non-small cell lung cancer (adenocarcinoma (with mixed subtypes), squamous cell carcinoma, large cell carcinoma)  - Single agent (if pembrolizumab not already given) as subsequent therapy for metastatic disease in persons with performance status 0-2:
+
+following progression on a first-line cytotoxic regimen; or
+
+for further progression on other systemic therapy. 
+
+Primary carcinoma of the urethra - Used as a single agent as subsequent systemic therapy for recurrent or metastatic disease.
+
+Small cell lung cancer - Subsequent systemic therapy for persons with performance status 0-2 as a single agent or in combination with ipilimumab for:
+
+relapse within 6 months following complete or partial response or stable disease with initial treatment; or
+primary progressive disease.
+
+Upper GU tract tumors - Used as a single agent as subsequent systemic therapy for metastatic disease.
+
+Urothelial carcinoma of the prostate - Used as a single agent as subsequent systemic therapy post-platinum  containing therapy for metastatic disease
+
+
+Other than as second-line or subsequent therapy for melanoma as noted above, Aetna considers nivolumab experimental and investigational for disease progression while on anti-PD-1 therapy (e.g. Opdivo [nivolumab], Keytruda [pembrolizumab], atezolizumab [Tecentriq], avelumab [Bavencio], durvalumab [Imfinzi]).
+
+Aetna considers nivolumab experimental and investigational for all other indications including the following (not an all-inclusive list):
+
+Breast cancer
+Cervical cancer
+Gastric cancer
+Glioblastoma
+Non-Hodgkin lymphoma
+Ovarian cancer
+Pancreatic cancer
+Sarcomatoid carcinoma of the lung
+Sarcomas (e.g., Ewing's family of tumors, osteosarcoma, rhabdomyosarcoma, and soft tissue sarcomas)"
+t,The following drugs are approved per FDA or NCCN guidelines for the specific indications listed: Avastin
+t,"Covered Uses:
+ All medically accepted indications not otherwise excluded from Part D.
+
+Required Medical Information: 
+For unresectable or metastatic melanoma, the tumor is positive for BRAF V600E or V600K mutation, and Tafinlar will be used as a single agent or in combination with trametinib. For NSCLC, the tumor is positive for the BRAF V600E mutation and Tafinlar will be used as a single agent or in combination with trametinib. 
+
+Coverage Duration:
+Plan Year"
+t,"MOLECULAR TARGET INHIBITORS
+
+Products Affected
+Braftovi
+Cotellic
+Mekinist
+Mektovi
+Tafinlar
+
+Covered Uses 
+All medically accepted indications not otherwise excluded from Part D.
+
+Exclusion Criteria 
+N/A
+
+Required Medical Information 
+N/A
+
+Age Restrictions 
+N/A
+
+Prescriber Restrictions 
+N/A
+
+Coverage Duration 
+12 months
+
+Other Criteria 
+N/A"
+t,"TAFINLAR
+50mg CAP (New Starts Only) 
+75mg CAP (New Starts Only)
+Covered Uses: All FDA-approved indications not otherwise excluded from Part D.
+Exclusion Criteria:
+Required Medical Info:
+Age Restrictions:
+Prescriber Restriction: Prescribed by, or in consultation with an Oncologist.
+Coverage Duration: Approved for duration of contract year subject to formulary change and member eligibility.
+Other Criteria:"
+t,"Non ‐ small cell lung cancer ( non ‐  squamous cell histology ). Member has NSCLC with non ‐ squamous cell histology AND Member is using bevacizumab in combination with cisplatin or carboplatin based regimens for unresectable , locally advanced , recurrent , or metastatic NSCLC OR Member is using bevacizumab as single ‐ agent continuation maintenance therapy if bevacizumab was used as first line treatment for recurrence or metastasis and the member has a performance status of 0 ‐ 1."
+t,"COTELLIC
+
+Covered Uses:
+All FDA-approved indications not otherwise excluded from Part D.
+
+Exclusion Criteria:
+Patients with wild-type BRAF melanoma.
+
+Required Medical Information:
+Lesion is positive for the BRAF V600E or V600K mutation as detected by an FDA-approved test.
+
+Age Restrictions:
+
+Prescriber Restrictions:
+Prescribed by or in consultation with an oncologist.
+
+Coverage Duration:
+12 months.
+
+Other Criteria:
+Used in combination with Zelboraf."
+t,"Cotellic
+
+Covered Uses 
+ALL FDA APPROVED INDICATIONS NOT OTHERWISE EXCLUDED FROM PART D. 
+
+Exclusion Criteria 
+
+Required Medical Information 
+
+Age Restrictions 
+
+Prescriber Restrictions 
+
+Coverage Duration 
+12 MONTHS
+
+Other Criteria"
+t,"MOLECULAR TARGET INHIBITORS
+
+Products Affected
+Braftovi
+Cotellic
+Mekinist
+Mektovi
+Tafinlar
+
+Covered Uses 
+All medically accepted indications not otherwise excluded from Part D.
+
+Exclusion Criteria 
+N/A
+
+Required Medical Information 
+N/A
+
+Age Restrictions 
+N/A
+
+Prescriber Restrictions 
+N/A
+
+Coverage Duration 
+12 months
+
+Other Criteria 
+N/A"
+t,"Xyrem (sodium oxybate)
+ All medically accepted indications not otherwise excluded from Part D.
+ Exclusion criteria: coverage is not provided for patients taking sedative hypnotics or in patients with succinic semialdehyde dehydrogenase deficiency. 
+ Coverage duration: 1 year."
+t,"Xyrem (sodium oxybate)
+ All medically accepted indications not otherwise excluded from Part D.
+ Exclusion criteria: coverage is not provided for patients taking sedative hypnotics or in patients with succinic semialdehyde dehydrogenase deficiency. 
+ Coverage duration: 1 year."
+t,"Zelboraf
+
+Covered Uses 
+All medically accepted indications not otherwise excluded from Part D.
+
+Exclusion Criteria 
+N/A
+
+Required Medical Information 
+Documentation of BRAF V600E mutation.
+
+Age Restrictions 
+N/A
+
+Prescriber Restrictions 
+N/A
+
+Coverage Duration 
+12 months
+
+Other Criteria 
+N/A"
+t,"Non ‐ small cell lung cancer ( non ‐  squamous cell histology ). Member has NSCLC with non ‐ squamous cell histology AND Member is using bevacizumab in combination with cisplatin or carboplatin based regimens for unresectable , locally advanced , recurrent , or metastatic NSCLC OR Member is using bevacizumab as single ‐ agent continuation maintenance therapy if bevacizumab was used as first line treatment for recurrence or metastasis and the member has a performance status of 0 ‐ 1."
+t,"Non ‐ small cell lung cancer ( non ‐  squamous cell histology ). Member has NSCLC with non ‐ squamous cell histology AND Member is using bevacizumab in combination with cisplatin or carboplatin based regimens for unresectable , locally advanced , recurrent , or metastatic NSCLC OR Member is using bevacizumab as single ‐ agent continuation maintenance therapy if bevacizumab was used as first line treatment for recurrence or metastasis and the member has a performance status of 0 ‐ 1."
+t,"Covered Uses:
+All FDA-approved indications not otherwise excluded from Part D.
+
+Exclusion Criteria:
+Patients with wild-type BRAF melanoma.
+
+Required Medical Information:
+Lesion is positive for the BRAF V600E or V600K mutation as detected by an FDA-approved test.
+
+Prescriber Restrictions:
+Prescribed by or in consultation with an oncologist.
+
+Coverage Duration:
+12 months.
+
+Other Criteria:
+Used in combination with Zelboraf."
+t,"Covered Uses:
+All FDA-approved indications not otherwise excluded from Part D.
+
+Exclusion Criteria:
+Patients with wild-type BRAF melanoma.
+
+Required Medical Information:
+Lesion is positive for the BRAF V600E or V600K mutation as detected by an FDA-approved test.
+
+Age Restrictions: [none]
+
+Prescriber Restrictions:
+Prescribed by or in consultation with an oncologist.
+
+Coverage Duration:
+12 months.
+
+Other Criteria:
+Used in combination with Zelboraf."
+t,"Non ‐ small cell lung cancer ( non ‐  squamous cell histology ). Member has NSCLC with non ‐ squamous cell histology AND Member is using bevacizumab in combination with cisplatin or carboplatin based regimens for unresectable , locally advanced , recurrent , or metastatic NSCLC OR Member is using bevacizumab as single ‐ agent continuation maintenance therapy if bevacizumab was used as first line treatment for recurrence or metastasis and the member has a performance status of 0 ‐ 1."
+t,N/A
+t,N/A
+t,N/A
+t,N/A
+t,N/A
+t,N/A
+t,All FDA approved indications not otherwise excluded from Part D.
+t,"Aetna considers pembrolizumab (Keytruda) medically necessary for the following indications:
+
+Urothelial carcinoma (Transitional cell carcinoma)
+ 
+Bladder cancer - as a single agent for clinical stage T4b or T2-4a, N1-3 disease, or for recurrence post cystectomy, or for metastatic disease as subsequent systemic therapy
+Primary carcinoma of the urethra - as a single agent as subsequent systemic therapy for recurrent or metastatic disease
+Upper GU tract tumors - as a single agent as subsequent systemic therapy for metastatic disease
+Urothelial carcinoma of the prostate - as a single agent as subsequent systemic therapy for metastatic disease
+
+Colorectal cancer, small bowel adenocarcinoma, appendiceal carcinoma, and anal adenocarcinoma  (defective mismatch repair/high microsatellite instability [dMMR/MSI-H] only) - single agent therapy for 
+
+Primary treatment for unresectable metachronous metastases and previous adjuvant FOLFOX (fluorouracil, leucovorin, and oxaliplatin) or CapeOX (capecitabine and oxaliplatin) within the past 12 months; or
+Initial therapy for unresectable advanced or metastatic disease who are not appropriate for intensive therapy; or
+Subsequent therapy (if nivolumab or pembrolizumab not previously given) for unresectable advanced or metastatic disease following previous oxaliplatin- irinotecan- and/or fluoropyrimidine-based therapy.
+
+Classical Hodgkin lymphoma -- Single agent therapy as
+ 
+Adult and pediatric members with refractory disease, or who have relapsed after 3 or more prior lines of therapy; or
+Additional therapy for adults age 18 years and older with refractory disease, or for relapsed disease in persons previously treated with brentuximab vedotin; or
+Palliative therapy of relapsed or refractory disease for older adults greater than 60 years of age.
+
+Melanoma -- Single agent therapy for unresectable or metastatic disease as
+
+First-line therapy; or
+Second-line or subsequent therapy for disease progression for persons with performance status 0-2 if anti-PD1 monotherapy not previously used; or
+After maximum clinical benefit from BRAF targeted therapy for persons with performance status 0-2; or 
+Re-induction therapy for persons with performance status 0-2 who experience disease control and have no residual toxicity, but subsequently experience disease progression/relapse >3 months after treatment discontinuation.
+
+Merkel cell carcinoma - treatment for distant metastatic disease or disseminated recurrence with or without surgery or radiation therapy.
+
+Non-small cell lung cancer (NSCLC)
+
+As single-agent therapy for recurrence or metastasis if PD-L1 expression-positive (>50%) as
+ 
+first-line therapy for tumors that are EGFR, ALK, and ROS1 negative or unknown; or
+subsequent therapy for sensitizing EGFR mutation-positive tumors and prior erlotinib, afatinib, gefitinib, or osimertinib therapy; or
+subsequent therapy for ALK rearrangement-positive tumors and prior crizotinib, ceritinib, or alectinib therapy; or
+subsequent therapy for ROS1 rearrangement-positive tumors and prior crizotinib therapy; or
+
+Subsequent therapy (if systemic immune checkpoint inhibitors not already given) for metastatic disease in persons with performance status 0-2 and tumors with PD-L1 expression levels ≥1%
+ 
+as a single agent following progression on a first-line cytotoxic regimen; or
+as a single agent for further progression on other systemic therapy; or
+In combination with pemetrexed and carboplatin, as first-line treatment of persons with metastatic nonsquamous NSCLC.
+
+Head and neck cancer -- Single agent therapy for very advanced and recurrent or persistent non-nasopharyngeal head and neck squamous cell carcinoma with disease progression on or after platinum-containing chemotherapy in
+ 
+Newly diagnosed T4b, any N, M0 disease, unresectable nodal disease with no metastases, or for persons who are unfit for surgery and performance status (PS) 3
+Metastatic (M1) disease at initial presentation or recurrent/persistent disease with distant metastases, or unresectable locoregional recurrence or second primary with prior radiation therapy (RT) and PS 0-2
+Unresectable locoregional recurrence without prior RT and PS 3.
+
+Solid tumors - for the treatment of persons with unresectable or metastatic, microsatellite instability-high (MSI-H) or mismatch repair deficient solid tumors that have progressed following prior treatment and who have no satisfactory alternative treatment options.
+
+Non-Hodgkin’s lymphoma (mycosis fungoides (MF)/Sezary syndrome)
+
+Second-line systemic therapy for
+
+Stage IB-IIA MF with histologic evidence of folliculotropic or large cell transformation or stage IIB with generalized tumor lesions, with or without skin-directed therapy
+Stage IV non-Sezary or visceral disease
+Stage III MF or SS which has progressed or is refractory to multiple previous therapies
+ 
+Gastric cancer – treatment for
+
+Recurrent locally advanced or metastatic gastric cancer; or
+Gastroesophageal junction (GEJ) adenocarcinoma; and
+Whose tumors express PD-L1 with a CPS ≥1; and
+With disease progression on or after two or more prior lines of therapy including fluoropyrimidine- and platinum-containing chemotherapy; and
+If  HER2/neu- positive, must have previously received treatment with approved HER2/neu-targeted therapy.
+
+Aetna considers pembrolizumab experimental and investigational for disease progression following prior anti-PD-1 therapy (e.g., nivolumab (Opdivo), pembrolizumab, atezolizumab (Tecentriq), avelumab (Bavencio), and durvalumab (Imfinzi)).
+Aetna considers pembrolizumab experimental and investigational for all other indications including the following (not an all-inclusive list):
+
+Breast cancer
+Central nervous system tumors (e.g. glioblastoma, astrocytoma)
+Chronic lymphocytic leukemia
+Hepatobiliary cancers (including bile duct malignancy)
+Lacrimal gland cancer
+Mesothelioma
+Multiple myeloma
+Penile cancer
+Salivary tumors
+Sarcoma (including osteosarcoma and pleomorphic dermal sarcoma)"
+t,"Cotellic
+
+Covered Uses 
+All FDA-approved indications not otherwise excluded from Part D.
+
+Exclusion Criteria
+
+Required Medical Info 
+Melanoma initial - must have BRAF V600 mutation.
+
+Age Restrictions
+
+Prescriber Restrictions
+
+Coverage Duration 
+3 years
+
+Other Criteria 
+Melanoma - being prescribed in combination with Zelboraf"
+t,"Drug must be prescribed for a FDA approved indication. If not prescribed for a FDA approved indication, the off-label use of the drug must be for a medically accepted indication that is supported by AHFS (American Hospital Formulary Service) Drug Information, NCCN (National Comprehensive Cancer Network) guidelines, Micromedex DrugDex or peer reviewed medical literature in accordance with Chapter 15 of the Medicare Benefit Policy Manual."
+t,"Zelboraf
+
+Covered Uses 
+All medically accepted indications not otherwise excluded from Part D.
+
+Exclusion Criteria 
+N/A
+
+Required Medical Information 
+Documentation of BRAF V600E mutation.
+
+Age Restrictions 
+N/A
+
+Prescriber Restrictions 
+N/A
+
+Coverage Duration 
+12 months
+
+Other Criteria 
+N/A"
+t,N/A
+t,"MOLECULAR TARGET INHIBITORS
+
+Products Affected
+Braftovi
+Cotellic
+Mekinist
+Mektovi
+Tafinlar
+
+Covered Uses 
+All medically accepted indications not otherwise excluded from Part D.
+
+Exclusion Criteria 
+N/A
+
+Required Medical Information 
+N/A
+
+Age Restrictions 
+N/A
+
+Prescriber Restrictions 
+N/A
+
+Coverage Duration 
+12 months
+
+Other Criteria 
+N/A"
+t,"Tafinlar
+
+Covered Uses 
+All medically accepted indications not otherwise excluded from Part D.
+
+Exclusion Criteria 
+Wild-type BRAF melanoma
+
+Required Medical Information 
+Diagnosis, prior therapy used, result of prior therapy. Documentation of BRAF mutation, as detected using an FDA-approved test. 
+
+Age Restrictions 
+N/A
+
+Prescriber Restrictions 
+Prescription must be written by an oncologist
+
+Coverage Duration 
+3 months for initiation, 6 months for continuation
+
+Other Criteria 
+N/A"
+t,"Non-small cell lung cancer 
+First-line treatment in combination with paclitaxel and carboplatin for unresectable, locally advanced, recurrent or metastatic non-squamous cell disease. First-line treatment in combination with cisplatin – based or carboplatin-based regimens for recurrent or metastatic non-squamous cell disease.  Single agent continuation maintenance therapy if given first line with chemotherapy for recurrence or metastatic non-squamous cell disease in patients who achieve tumor response or stable disease following first-line chemotherapy."
+t,All medically accepted indications not otherwise excluded from Part D.
+t,"Opdivo is considered medically necessary with documentation of ALL of the following:
+1. ONE of the following:
+▪ Monotherapy for the treatment of adults with BRAF V600 wild-type unresectable or metastatic melanoma
+▪ Monotherapy for the treatment of adults with BRAF V600 mutation-positive unresectable or metastatic melanoma
+▪ In combination with ipilimumab (Yervoy) for the treatment of adults with unresectable or metastatic melanoma
+▪ As adjuvant treatment of individuals with melanoma with involvement of lymph nodes or metastatic disease who have undergone complete resection
+▪ Treatment of adults with Metastatic non-small cell lung cancer (NSCLC) with progression on or after platinum-based chemotherapy
+▪ Treatment of adults with metastatic non-small cell lung cancer (NSCLC) with EGFR1 or ALK2 genomic tumor aberrations with progression on FDA-approved therapy for these aberrations prior to receiving Opdivo
+▪ Treatment of adults with advanced renal cell carcinoma (RCC) in individuals who have received prior anti-angiogenic therapy3
+▪ Treatment of adults with classical Hodgkin lymphoma that has relapsed or progressed after ANY of the following:
+a. Autologous hematopoietic stem cell transplantation (HCT) and post-transplantation Adcetris brentuximab vedotin)
+b. 3 or more lines of systemic therapy that includes autologous HSCT
+▪ Recurrent or metastatic squamous cell carcinoma of the head and neck with disease progression on or after a platinum-based therapy.
+▪ Locally advanced or metastatic urothelial carcinoma with ANY of the following:
+a. Disease progression during or following platinum-containing chemotherapy
+b. Disease progression within 12 months of neoadjuvant or adjuvant treatment with platinum-containing chemotherapy.
+▪ Treatment of adults and pediatrics (12 years and older) with microsatellite instability-high (MSI-H) or mismatch repair deficient (dMMR) metastatic colorectal cancer that has progressed following treatment with a fluorpyrimidine, oxoliplatin, and irinotecan.
+▪ Treatment of individuals with hepatocellular carcinoma previously treated with sorafenib.
+
+2. Individual of child bearing potential is on effective contraception prior to initiation of therapy
+
+3. Individual who is breast feeding has discontinued before therapy is initiated
+
+4. Individual does not have moderate or severe hepatic impairment
+
+5. Individual has no evidence of severe immune-mediated reactions (e.g., colitis, endocrinopathies [e.g., hypophysitis, thyroid disorders, type 1 diabetes mellitus, adrenal insufficiency] hepatitis, nephritis, pneumonitis, Stevens-Johnson syndrome, toxic epidermal necrolysis, encephalitis)
+
+ Continuation of Opdivo is considered medically necessary with documentation of ALL of the following:
+1. Individual has responded to treatment defined as no disease progression
+2. No unacceptable immune related toxicities, including:
+▪ Severe pneumonitis
+▪ Severe colitis
+▪ Endocrinopathies such as hypophysitis, thyroid disorder, type 1 diabetes mellitus, or adrenal insufficiency
+▪ Life threatening skin reaction such as Stevens-Johnson syndrome or toxic epidermal
+necrolysis
+▪ Nephritis
+▪ Encephalitis
+
+ Opdivo for all other indications not previously listed or if above criteria not met is considered experimental or investigational based upon:
+1. Lack of final approval from the Food and Drug Administration, and
+2. Insufficient scientific evidence to permit conclusions concerning the effect on health outcomes, and
+3. Insufficient evidence to support improvement of the net health outcome, and
+4. Insufficient evidence to support improvement of the net health outcome as much as, or more than, established alternatives, and
+5. Insufficient evidence to support improvement outside the investigational setting.
+These indications include, but are not limited to:
+▪ Treatment with dosing or frequency outside the FDA-approved dosing and frequency
+1 EGFR based therapy includes but not limited to: Gilotrif (afatinib), Tarceva (erlotinib), Iressa (gefitinib)
+2 ALK based therapy includes but not limited to: Alecensa (alectinib), Zykadia (ceritinib), Xalkori (crizotinib)
+3 Anti-angiogenic activity used for RCC includes but not limited to: (Avastin (bevacizumab), Nexavar (sorafenib), Sutent (sunitinib), Votrient (pazopanib), Afinitor (everolimus)"
+t,"MOLECULAR TARGET INHIBITORS
+
+Products Affected
+Braftovi
+Cotellic
+Mekinist
+Mektovi
+Tafinlar
+
+Covered Uses 
+All medically accepted indications not otherwise excluded from Part D.
+
+Exclusion Criteria 
+N/A
+
+Required Medical Information 
+N/A
+
+Age Restrictions 
+N/A
+
+Prescriber Restrictions 
+N/A
+
+Coverage Duration 
+12 months
+
+Other Criteria 
+N/A"
+t,"Covered uses All medically accepted indications not otherwise excluded from Part D.
+ Exclusion criteria None
+ Required med info None
+ Age restrictions None
+ Prescriber restrictions None
+ Coverage duration One Year
+ Other criteria None"
+t,"COTELLIC
+
+Covered Uses:
+All FDA-approved indications not otherwise excluded from Part D.
+
+Exclusion Criteria:
+Patients with wild-type BRAF melanoma.
+
+Required Medical Information:
+Lesion is positive for the BRAF V600E or V600K mutation as detected by an FDA-approved test.
+
+Age Restrictions:
+
+Prescriber Restrictions:
+Prescribed by or in consultation with an oncologist.
+
+Coverage Duration:
+12 months.
+
+Other Criteria:
+Used in combination with Zelboraf."
+t,"Covered uses All medically accepted indications not otherwise excluded from Part D.
+ Exclusion criteria None
+ Required med info None
+ Age restrictions None
+ Prescriber restrictions None
+ Coverage duration One Year
+ Other criteria None"
+t,Priority Health will cover 72-hour continuous glucose monitoring for patients with labile blood sugars and the need for intensive short-term monitoring for improving blood glucose control
+t,"Short-term continuous glucose monitoring is considered medically necessary when all of the following medical criteria are met:
+
+1. The plan member has insulin-dependent type 1 or type 2 diabetes.
+2. There is inadequate glycemic control despite compliance with frequent self-monitoring of blood glucose (at least 4 times per day).
+3. The results of continuous glucose monitoring are reviewed, interpreted, and reported by a healthcare professional."
+t,FDA: Non-squamous non small cell lung cancer.
+t,"Bevacizumab may be considered medically necessary for the following indications: Non-squamous non-small cell lung cancer (NSCLC), used with carboplatin and paclitaxel for first line treatment of unresectable, locally advanced, recurrent or metastatic disease."
+t,This drug may be covered under Medicare Part B or D depending upon the circumstances. Information may need to be submitted describing the use and setting of the drug to make the determination.
+t,"Covered Uses:
+All FDA-approved indications not otherwise excluded from Part D.
+
+Exclusion Criteria:
+Patients with wild-type BRAF melanoma.
+
+Required Medical Information:
+Lesion is positive for the BRAF V600E or V600K mutation as detected by an FDA-approved test.
+
+Prescriber Restrictions:
+Prescribed by or in consultation with an oncologist.
+
+Coverage Duration:
+12 months.
+
+Other Criteria:
+Used in combination with Zelboraf."
+t,"Non ‐ small cell lung cancer ( non ‐  squamous cell histology ). Member has NSCLC with non ‐ squamous cell histology AND Member is using bevacizumab in combination with cisplatin or carboplatin based regimens for unresectable , locally advanced , recurrent , or metastatic NSCLC OR Member is using bevacizumab as single ‐ agent continuation maintenance therapy if bevacizumab was used as first line treatment for recurrence or metastasis and the member has a performance status of 0 ‐ 1."
+t,"Covered Uses:
+ All medically accepted indications not otherwise excluded from Part D, melanoma with BRAF V600K mutation, non-small cell lung cancer (NSCLC) with BRAF V600E mutation, and hairy cell leukemia. 
+
+Required Medical Information: 
+For unresectable or metastatic melanoma, the tumor is positive for either BRAF V600E or V600K mutation, and Zelboraf is used as a single agent or in combination with cobimetinib. For NSCLC, the tumor is positive for the BRAF V600E mutation. For refractory hairy cell leukemia, Zelboraf will be used as a single agent for disease progression after non-response to purine analog therapy. 
+
+Coverage Duration:
+Plan Year"
+t,N/A
+t,N/A
+t,"For NSCLC, the disease is unresectable, locally advanced, recurrent, or metastatic for patients with tumors of non-squamous cell histology, and no hx of recent hemoptysis and 1) AV will be used as first-line therapy or as subsequent therapy after prior therapy with erlotinib, afatinib, gefitinib or crizotinib a) AV will be used with cisplatin- or carboplatin-based regimens and b) Patient has distant mets or locoregional recurrence with evidence of disseminated disease, OR 2) AV will be used as a continuation maintenance tx (i.e., continuation of AV as first-line therapy beyond 4- 6 cycles in the absence of disease progression) for tumor that is negative or unknown for both EGFR and ALK mutations and a) AV will be used alone or in combination with pemetrexed if previously used with a first-line pemetrexed/platinum chemotherapy regimen and b) Patient has achieved tumor response or stable disease following firstline chemotherapy."
+t,"Covered Uses:
+All FDA-approved indications not otherwise excluded from Part D, non-small cell lung cancer (NSCLC) with BRAF V600E mutation.
+
+Required Medical Information:
+For unresectable or metastatic melanoma, the tumor is positive for BRAF V600E or V600K mutation and Mekinist is used as a single agent or in combination with dabrafenib. For NSCLC, tumor is positive for BRAF V600E mutation and Mekinist is used in combination with dabrafenib.
+
+Coverage Duration:
+ Plan Year"
+t,"For NSCLC, the disease is unresectable, locally advanced, recurrent, or metastatic for patients with tumors of non-squamous cell histology, and no hx of recent hemoptysis and 1) AV will be used as first-line therapy or as subsequent therapy after prior therapy with erlotinib, afatinib, gefitinib or crizotinib a) AV will be used with cisplatin- or carboplatin-based regimens and b) Patient has distant mets or locoregional recurrence with evidence of disseminated disease, OR 2) AV will be used as a continuation maintenance tx (i.e., continuation of AV as first-line therapy beyond 4- 6 cycles in the absence of disease progression) for tumor that is negative or unknown for both EGFR and ALK mutations and a) AV will be used alone or in combination with pemetrexed if previously used with a first-line pemetrexed/platinum chemotherapy regimen and b) Patient has achieved tumor response or stable disease following firstline chemotherapy."
+t,"Covered Uses:
+ All FDA-approved indications not otherwise excluded from Part D.
+
+Coverage Duration:
+ Plan Year"
+t,"Bevacizumab (Avastin) is considered medically necessary and, therefore, covered when the dosing and frequency requirements listed in Attachment A and the following indications are met: NON-SQUAMOUS NON-SMALL CELL LUNG CANCER: ADENOCARCINOMA AND LARGE CELL CARCINOMA
+In individuals who have unresectable, locally advanced, recurrent, or metastatic non-squamous non-small cell lung cancer, as first-line treatment in combination with paclitaxel (Taxol) and carboplatin (Paraplatin)
+In individuals who have non-squamous non-small cell lung cancer as first-line therapy in combination with cisplatin- or carboplatin-based regimens (ie, a regimen with any of the following agents: paclitaxel, docetaxel, gemcitabine, vinorelbine, etoposide, vinblastine, pemetrexed) for recurrence or metastasis in individuals with performance status 0 to 1, tumors of nonsquamous cell histology, and no history of recent hemoptysis (excluding locoregional recurrence [with the exception of mediastinal lymph node recurrence with prior radiation therapy] with no evidence of disseminated disease)
+For information on performance status as defined by the Eastern Cooperative Oncology Group (ECOG), please refer to the Guidelines section in this policy.
+As single-agent or in combination with pemetrexed (if previously used with a first-line pemetrexed/platinum chemotherapy regimen) when given as continuation maintenance therapy for recurrence or metastasis if given first line with chemotherapy in individuals with performance status 0 to 1, tumors of nonsquamous cell histology, and no history of recent hemoptysis who achieve tumor response or stable disease following first-line chemotherapy
+As a second-line therapy for progression in individuals with multiple symptomatic systemic lesions in combination with a platinum doublet therapy
+with or without erlotinib for sensitizing EGFR mutation positive tumors and prior erlotinib or afatinib therapy
+for ALK-positive tumors and prior crizotinib therapy"
+t,All medically accepted indications not otherwise excluded from Part D.
+t,N/A
+t,Non-Small Cell Lung Cancer (NSCLC): Diagnosis of unresectable locally advanced recurrent or metastatic NSCLC. Used in combination with paclitaxel and carboplatin. Performance status 0 to 1.
+t,Non-Small Cell Lung Cancer (NSCLC): Diagnosis of unresectable locally advanced recurrent or metastatic NSCLC. Used in combination with paclitaxel and carboplatin. Performance status 0 to 1.
+f,N/A
+t,"Avastin is covered in adult patients (≥ 18 years of age) for the following indications: Non-squamous non-small cell lung cancer First-line treatment in combination with a platinum-based treatment regimen for recurrence or metastases for patients with performance status 0-1 Continuation-maintenance therapy if given first line with chemotherapy for recurrence or metastases for patients with performance status 0-1
+Second-line treatment in combination with a platinum-based doublet"
+t,N/A
+t,N/A
+t,N/A
+t,N/A
+t,N/A
+t,N/A
+t,N/A
+t,"1.0 AVASTIN (bevacizumab) is considered medically appropriate for any one of the following diagnosis: 1.2 Non-Squamous Non-Small Cell Lung Cancer (NSCLC) 1.2.1 First-line treatment of unresectable, locally advanced, recurrent or metastatic non–squamous non–small cell lung cancer in combination with paclitaxel and carboplatin"
+t,"Being used as first-line, second-line, or maintenance therapy for non-squamous, nonsmall cell lung cancer"
+t,"RMHP considers bevacizumab (Avastin) medically necessary for any FDA approved indication, including the following: Non-squamous, non-small cell lung cancer that is recurrent or metastatic, unresectable, locally
+advanced, as first line treatment in combination with paclitaxel and carboplatin."
+t,"Drug Names COTELLIC
+
+Covered Uses 
+All FDA-approved indications not otherwise excluded from Part D.
+
+Exclusion Criteria
+
+Required Medical Information
+
+Age Restrictions
+
+Prescriber Restrictions
+
+Coverage Duration 
+Plan Year
+
+Other Criteria"
