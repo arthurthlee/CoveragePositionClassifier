@@ -170,7 +170,7 @@ if __name__ == '__main__':
     valid_loader = DataLoader(valid_data, shuffle=True, batch_size=batch_size)
     test_loader = DataLoader(test_data, shuffle=True, batch_size=batch_size)
 
-    # obtain one batch of training data
+    # obtain one batch of training data to show
     dataiter = iter(train_loader)
     sample_x, sample_y = dataiter.next()
     print('Sample input size: ', sample_x.size()) # batch_size, seq_length
@@ -195,9 +195,65 @@ if __name__ == '__main__':
     criterion = nn.BCELoss()
     optimizer = torch.optim.Adam(net.parameters(), lr=lr)
 
+    epochs = 4 # 3-4 is approx where I noticed the validation loss stop decreasing
+
+    counter = 0
+    print_every = 100
+    clip=5 # gradient clipping
+
     net.train()
 
+    # train for some number of epochs
+    for e in range(epochs):
+        # initialize hidden state
+        h = net.init_hidden(batch_size)
 
+        # Batch loop. Batches of 5 criteria are analyzed, and when all the batches are analyzed,
+        # one epoch is completed.
+        for inputs, labels in train_loader:
+            counter += 1
+
+            # Creating new variables for the hidden state, otherwise
+            # we'd backprop through the entire training history
+            h = tuple([each.data for each in h])
+
+            # zero accumulated gradients
+            net.zero_grad()
+
+            # get the output from the model
+            output, h = net(inputs, h)
+
+            # calculate the loss and perform backprop
+            loss = criterion(output.squeeze(), labels.float())
+            loss.backward()
+            # `clip_grad_norm` helps prevent the exploding gradient problem in RNNs / LSTMs.
+            # Ie. The more layers you have/the more history you keep track of, the larger/smaller the
+            # effects of the previous hidden layer outputs on the updating of weights
+            nn.utils.clip_grad_norm_(net.parameters(), clip)
+            optimizer.step()
+
+            # loss stats
+            if counter % print_every == 0:
+                # Get validation loss
+                val_h = net.init_hidden(batch_size)
+                val_losses = []
+                net.eval()
+                for inputs, labels in valid_loader:
+
+                    # Creating new variables for the hidden state, otherwise
+                    # we'd backprop through the entire training history
+                    val_h = tuple([each.data for each in val_h])
+
+                    output, val_h = net(inputs, val_h)
+                    val_loss = criterion(output.squeeze(), labels.float())
+
+                    val_losses.append(val_loss.item())
+
+                net.train()
+                print("Epoch: {}/{}...".format(e+1, epochs),
+                      "Step: {}...".format(counter),
+                      "Loss: {:.6f}...".format(loss.item()),
+                      "Val Loss: {:.6f}".format(np.mean(val_losses)))
 
     # Get test data loss and accuracy
 
