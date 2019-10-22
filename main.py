@@ -80,72 +80,80 @@ if __name__ == '__main__':
     rows = df.apply(lambda x: x.tolist(), axis=1)
     #print('Coverage: ' + rows.index.values)
 
-    # Remove punctuation
-    formatted_text = []
+    # Remove punctuation and convert all words to lower case
+    formatted_criteria = []
     for text in rows.values:
         if isinstance(text[0], str) == True:
-            formatted_text.append(str(''.join([c for c in text[0] if c not in punctuation])))
+            formatted_criteria.append(str(''.join([c for c in text if c not in punctuation]).lower()))
         else:
-            formatted_text.append('')
-    #print(formatted_text)
-    #print ('Number of coverage entries :', len(formatted_text))
+            formatted_criteria.append('')
+    #print(formatted_criteria)
+    #print ('Number of coverage entries :', len(formatted_criteria))
 
-    # Make giant list of strings with all words
-    text_lists = []
-    for text in formatted_text:
-        text_lists.append(text)
+    # Make giant list of words from all the criteria combined
+    criteria_list = []
+    for criteria in formatted_criteria:
+        criteria_list.append(criteria)
 
     word_list = []
-    for sentence in text_lists:
-        text_in_sentence = sentence.split()
-        for word in text_in_sentence:
+    for criteria in criteria_list:
+        words_in_criteria = criteria.split()
+        for word in words_in_criteria:
             word_list.append(word)
 
-    # Count all the words using Counter Method
+    # Count all the words using Counter Method and sort them by frequency
     sorted_words = []
     count_words = Counter(word_list)
     total_words = len(word_list)
     sorted_words = count_words.most_common(total_words)
 
-    print(sorted_words)
+    #print(sorted_words)
 
+    # Make a mapping of words to their ranking by frequency (Ex. 'or' appears the most, so {or: 1})
+    # Indexing starts at 1 because we later pad criteria with not enough words with 0s
     vocab_to_int = {w:i+1 for i, (w,c) in enumerate(sorted_words)}
 
+    # Replace all words in each criteria with its frequency-index encoding
     words_int = []
-    for text in formatted_text:
+    for text in formatted_criteria:
         r = [vocab_to_int[w] for w in text.split()]
         words_int.append(r)
-    print (words_int[0:3])
+    #print (words_int[0:3])
 
+    # Encode each drug's coverage position as a 1 (true) or 0 (false)
     encoded_labels = [1 if label =='t' else 0 for label in rows.index.values]
-    print(encoded_labels)
+    #print(encoded_labels)
     encoded_labels = np.array(encoded_labels)
 
-    seq_length = 10
-
+    # Initialize a list of empty criteria filled with 0s
+    seq_length = 25
     features = np.zeros((len(words_int), seq_length), dtype = int)
 
-    for i, review in enumerate(words_int):
-        review_len = len(review)
+    for i, criteria in enumerate(words_int):
+        criteria_len = len(criteria)
 
         new = []
-        if review_len <= seq_length:
-            zeroes = list(np.zeros(seq_length-review_len))
-            new = zeroes+review
+        # Pad criteria that are below 25 words with 0s
+        # Ex. [1, 23, 466] becomes [0, 0, <20 more zeroes>, 1, 23, 466]
+        # These become our features for each criterion
+        if criteria_len <= seq_length:
+            zeroes = list(np.zeros(seq_length-criteria_len))
+            new = zeroes+criteria
 
-        elif review_len > seq_length:
-            new = review[0:seq_length]
+        # Truncate criteria that are longer than 25 words
+        elif criteria_len > seq_length:
+            new = criteria[0:seq_length]
 
         features[i,:] = np.array(new)
 
-    print (features[:10,:])
+    print ('Tokenized criteria: \n', features[:2,:])
 
-    # Split the data into 80% training data, 10% test data and 10% validation data
+    # Split the data into 50% training data, 25% test data and 25% validation data
     split_frac = 0.5
-    train_x = features[0:int(split_frac*len(formatted_text))]
-    train_y = encoded_labels[0:int(split_frac*len(formatted_text))]
-    remaining_x = features[int(split_frac*len(formatted_text)):]
-    remaining_y = encoded_labels[int(split_frac*len(formatted_text)):]
+    train_x = features[0:int(split_frac*len(formatted_criteria))]
+    train_y = encoded_labels[0:int(split_frac*len(formatted_criteria))]
+    remaining_x = features[int(split_frac*len(formatted_criteria)):]
+    remaining_y = encoded_labels[int(split_frac*len(formatted_criteria)):]
     valid_x = remaining_x[0:int(len(remaining_x)*0.5)]
     valid_y = remaining_y[0:int(len(remaining_y)*0.5)]
     test_x = remaining_x[int(len(remaining_x)*0.5):]
@@ -178,7 +186,6 @@ if __name__ == '__main__':
     hidden_dim = 256
     n_layers = 2
 
-    #TODO: Implement below
     net = SentimentRNN(vocab_size, output_size, embedding_dim, hidden_dim, n_layers)
     print(net)
 
@@ -189,6 +196,8 @@ if __name__ == '__main__':
     optimizer = torch.optim.Adam(net.parameters(), lr=lr)
 
     net.train()
+
+
 
     # Get test data loss and accuracy
 
