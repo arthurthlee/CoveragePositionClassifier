@@ -141,7 +141,7 @@ if __name__ == '__main__':
     print (features[:10,:])
 
     # Split the data into 80% training data, 10% test data and 10% validation data
-    split_frac = 0.8
+    split_frac = 0.5
     train_x = features[0:int(split_frac*len(formatted_text))]
     train_y = encoded_labels[0:int(split_frac*len(formatted_text))]
     remaining_x = features[int(split_frac*len(formatted_text)):]
@@ -156,7 +156,7 @@ if __name__ == '__main__':
     valid_data = TensorDataset(torch.from_numpy(valid_x), torch.from_numpy(valid_y))
     test_data = TensorDataset(torch.from_numpy(test_x), torch.from_numpy(test_y))
     # dataloaders
-    batch_size = 10
+    batch_size = 5
     # make sure to SHUFFLE your data
     train_loader = DataLoader(train_data, shuffle=True, batch_size=batch_size)
     valid_loader = DataLoader(valid_data, shuffle=True, batch_size=batch_size)
